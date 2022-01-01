@@ -11,7 +11,7 @@ Compute the scaling parameters by using the **.fit_transform()** method on the p
 ## 3. Fit data using linear regression with Lasso regularization
 
 Create an instance of sklearn's Lasso class and assign it to the variable **lasso_reg**. You don't need to set any parameter values: use the default values for the quiz.
-Use the Lasso** object's .fit() method to fit the regression model onto the data. Make sure that you apply the fit to the standardized data from the previous step (X_scaled), not the original data.
+Use the Lasso `object's .fit()` method to fit the regression model onto the data. Make sure that you apply the fit to the standardized data from the previous step (X_scaled), not the original data.
 ## 4. Inspect the coefficients of the regression model
 
 Obtain the coefficients of the fit regression model using the **.coef_ attribute **of the Lasso object. Store this in the **reg_coef** variable: the coefficients will be printed out, and you will use your observations to answer the question at the bottom of the page.
