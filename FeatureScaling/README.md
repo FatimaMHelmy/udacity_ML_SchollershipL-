@@ -1,5 +1,5 @@
      Perform the following steps:
-   #####1. Load in the data
+1. Load in the data
 
 The data is in the file called 'data.csv'. Note that there's no header row on this file.
 Split the data so that the six predictor features (first six columns) are stored in X, and the outcome feature (last column) is stored in y.
