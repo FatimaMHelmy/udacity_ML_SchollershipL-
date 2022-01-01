@@ -1,6 +1,6 @@
 Get some practice implementing polynomial regression in this exercise. In data.csv, you can see data generated for one predictor feature ('Var_X') and one outcome feature ('Var_Y'), following a non-linear trend. Use sklearn's PolynomialFeatures class to extend the predictor feature column into multiple columns with polynomial features. Play around with different degrees of polynomial and the Test Run button to see what fits best: when you think you have the best-fitting degree, press the Submit button to check your work!
 
-Perform the following steps below:
+##Perform the following steps below:
 1. Load in the data
 
 The data is in the file called 'data.csv'. Note that this data has a header line.
