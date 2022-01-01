@@ -1,4 +1,4 @@
-     Perform the following steps:
+# Perform the following steps:
 1. Load in the data
 
 The data is in the file called 'data.csv'. Note that there's no header row on this file.
